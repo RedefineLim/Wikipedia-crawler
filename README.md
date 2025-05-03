@@ -26,7 +26,7 @@ pip install wikipediaapi weasyprint selenium
 
 1. 克隆仓库到本地：
 ```bash
-git clone https://github.com/YourUsername/Wikipedia-crawler.git
+git clone https://github.com/RedefineLim/Wikipedia-crawler.git
 cd Wikipedia-crawler
 ```
 
@@ -94,23 +94,44 @@ MIT License
 本项目基于[AndreiRegiani/wikipedia-crawler](https://github.com/AndreiRegiani/wikipedia-crawler)进行了修改和扩展，特别增加了对数学公式的支持[1]。
 
 Citations:
+
 [1] https://github.com/SJTUzhou/wiki_crawler/blob/main/README.md
+
 [2] https://stackoverflow.com/questions/51445418/how-do-i-build-a-basic-web-crawler-for-wikipedia-pages-to-gather-links
+
 [3] https://github.com/uhub/awesome-python/blob/master/README.md
+
 [4] https://www.academia.edu/41461428/Ryan_Mitchell_Web_Scraping_with_Python_COLLECTING_MORE_DATA_FROM_THE_MODERN_WEB
-[5] https://sciendo.com/2/v2/download/chapter/9781785881930/10.0000/9781785881930-001.pdf?Token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6W3sic3ViIjoyNTY3ODUxNywicHVicmVmIjoiNzY0NDg4IiwibmFtZSI6Ikdvb2dsZSBHb29nbGVib3QgLSBXZWIgQ3Jhd2xlciBTRU8iLCJ0eXBlIjoiaW5zdGl0dXRpb24iLCJsb2dvdXRfbGluayI6Imh0dHBzOi8vY29ubmVjdC5saWJseW54LmNvbS9sb2dvdXQvNjdmY2RjYTA4MzhiNzEzZmU0YzgyMzFjMTEyYmE4NDUiLCJhdXRoX21ldGhvZCI6ImlwIiwiaXAiOiI2Ni4yNDkuNjYuNCJ9XSwiaWF0IjoxNzQ0NjI3NjQ1LCJleHAiOjE3NDU4MzcyNDV9.BUy78stAz47NotVr599g68Pm32XJ5OVodHUVFNiTZ60
+
+[5] https://sciendo.com/2/v2/download/chapter/9781785881930/10.0000/9781785881930-001.pdf?
+Token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VycyI6W3sic3ViIjoyNTY3ODUxNywicHVicmVmIjoiNzY0NDg4IiwibmFtZSI6Ikdvb2dsZSBHb29nbGVib3QgLSBXZWIgQ3Jhd2xlciBTRU8iLCJ0eXBlIjoiaW5zdGl0dXRpb24iLCJsb2dvdXRfbGluayI6Imh0dHBzOi8vY29ubmVjdC5saWJseW54LmNvbS9sb2dvdXQvNjdmY2RjYTA4MzhiNzEzZmU0YzgyMzFjMTEyYmE4NDUiLCJhdXRoX21ldGhvZCI6ImlwIiwiaXAiOiI2Ni4yNDkuNjYuNCJ9XSwiaWF0IjoxNzQ0NjI3NjQ1LCJleHAiOjE3NDU4MzcyNDV9.BUy78stAz47NotVr599g68Pm32XJ5OVodHUVFNiTZ60
+
 [6] https://github.com/charlesl46/Wikipedia2LaTeX
+
 [7] https://arxiv.org/html/2404.10690v1
+
 [8] https://stackoverflow.com/questions/53804643/how-can-i-get-a-wikipedia-articles-text-using-python-3-with-beautiful-soup
+
 [9] https://github.com/Kozea/WeasyPrint/issues/59
+
 [10] https://docs.mathjax.org/_/downloads/en/stable/pdf/
+
 [11] https://stackoverflow.com/questions/76139495/how-can-i-export-a-markdown-file-as-a-pdf-using-the-exact-same-style-as-github
+
 [12] https://pandoc.org/MANUAL.html
+
 [13] https://github.com/mkdocs/mkdocs/issues/253
+
 [14] https://github.com/johnjosephhorton/texscrap
+
 [15] https://news.ycombinator.com/item?id=38126623
+
 [16] https://tex.stackexchange.com/questions/290617/markdown-mathjax-pdf
+
 [17] https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops
+
 [18] https://chromewebstore.google.com/detail/wikipedia-with-mathjax/fhomhkjcommffnlajeemenejemmegcmi
+
 [19] https://www.reddit.com/r/Python/comments/h0if8o/convert_equations_in_pdf_to_equation_in_python/
+
 [20] https://obsidian.md/plugins?id=
